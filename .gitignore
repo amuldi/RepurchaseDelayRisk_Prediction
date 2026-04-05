@@ -1,0 +1,7 @@
+venv/
+outputs/
+__pycache__/
+.ipynb_checkpoints/
+
+# 대용량 원본 데이터 제외
+data/orders.csv
